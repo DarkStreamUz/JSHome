@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.btn{
+    margin: 30px;
+}
+.btn a{
+    color: white;
+    font-weight: bold;
+}
+.btn a:hover{
+    text-decoration: none;
+}
